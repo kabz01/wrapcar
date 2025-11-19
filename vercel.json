@@ -1,8 +1,7 @@
 {
   "framework": "nextjs",
   "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "@supabase-url",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@supabase-anon-key",
-    "SUPABASE_SERVICE_ROLE_KEY": "@supabase-service-role-key"
+    "NEXT_PUBLIC_SUPABASE_URL": "https://qxlfbrjcdmjzhojxlmnb.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF4bGZicmpjZG1qemhvanhsbW5iIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM0Njg0NDYsImV4cCI6MjA3OTA0NDQ0Nn0.hPV_CWT1e1Iha6RElja9ZwbpMDyDtKCikVjGbWbQYr0",
   }
 }
